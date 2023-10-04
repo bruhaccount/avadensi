@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 537 341">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        font-family: Inter-Bold, Inter;
+        font-size: 28.82px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        font-size: 16.18px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: Inter-Regular, Inter;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        fill: #1652f0;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        font-size: 19.22px;
+      }
+
+      .cls-11 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-family: Inter-SemiBold, Inter;
+        font-size: 27.3px;
+        font-weight: 600;
+      }
+
+      .cls-14 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.07em;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="268.5" y1="341.6" x2="268.5" y2="138.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1652f0"/>
+      <stop offset="1" stop-color="#4d8dff"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-1" width="537" height="341" rx="14.88" ry="14.88"/>
+      <g>
+        <g>
+          <text class="cls-5" transform="translate(140.53 277.37)"><tspan x="0" y="0">Ca</tspan><tspan class="cls-7" x="35.99" y="0">r</tspan><tspan x="46.2" y="0">oline</tspan></text>
+          <text class="cls-3" transform="translate(140.53 301.53)"><tspan x="0" y="0">Owner Boul</tspan><tspan class="cls-8" x="88.35" y="0">ev</tspan><tspan class="cls-9" x="106.23" y="0">a</tspan><tspan class="cls-6" x="115.35" y="0">r</tspan><tspan x="121.1" y="0">d Beach </tspan><tspan class="cls-11" x="187.91" y="0">K</tspan><tspan x="197.82" y="0">ota Wisata Cibubur</tspan></text>
+        </g>
+        <circle class="cls-10" cx="80.35" cy="280.24" r="27.76"/>
+        <text class="cls-4" transform="translate(58.44 118.5)"><tspan x="0" y="0">S</tspan><tspan class="cls-15" x="12.25" y="0">a</tspan><tspan class="cls-12" x="22.71" y="0">y</tspan><tspan x="33.08" y="0">a dapat pengalaman </tspan><tspan class="cls-12" x="223.29" y="0">y</tspan><tspan x="233.66" y="0">ang man</tspan><tspan class="cls-13" x="311.64" y="0">t</tspan><tspan x="318.52" y="0">ep banget </tspan><tspan x="0" y="23.06">dari </tspan><tspan class="cls-16" x="39.88" y="23.06">A</tspan><tspan class="cls-12" x="51.56" y="23.06">v</tspan><tspan x="61.93" y="23.06">adensi untuk media sosial cof</tspan><tspan class="cls-14" x="330.2" y="23.06">f</tspan><tspan x="336.7" y="23.06">ee shop </tspan><tspan x="0" y="46.12">s</tspan><tspan class="cls-15" x="10.04" y="46.12">a</tspan><tspan class="cls-12" x="20.5" y="46.12">y</tspan><tspan x="30.87" y="46.12">a. Dari awal mulai mengerjakan sampai </tspan><tspan x="0" y="69.17">upload pun, manajemen p</tspan><tspan class="cls-12" x="233.58" y="69.17">r</tspan><tspan x="240.4" y="69.17">oject dan tim</tspan><tspan class="cls-15" x="358.4" y="69.17">n</tspan><tspan class="cls-12" x="369.26" y="69.17">y</tspan><tspan x="379.63" y="69.17">a </tspan><tspan x="0" y="92.23">p</tspan><tspan class="cls-12" x="11.71" y="92.23">r</tspan><tspan x="18.53" y="92.23">o</tspan><tspan class="cls-14" x="30" y="92.23">f</tspan><tspan x="36.49" y="92.23">esional, </tspan><tspan class="cls-13" x="111.17" y="92.23">t</tspan><tspan x="118.05" y="92.23">op jempol banget</tspan></text>
+        <text class="cls-2" transform="translate(58.44 53.96)"><tspan x="0" y="0">Bagus Banget</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

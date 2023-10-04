@@ -1,0 +1,7 @@
+bbrp font weight dan cocokan color pallette
+
+ctrl + f "rawr.." punya gw di css
+
+perubahan main menggunakan section dan dibagi dua bilik dengan video
+
+video diatur size di html lgsg/ source
